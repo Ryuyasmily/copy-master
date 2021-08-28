@@ -1,0 +1,37 @@
+@media (max-width:768px){
+  
+  /*特徴部分*/
+
+  .grid{
+    display:block;
+  }
+
+  .grid .item{
+    width:100%;
+  }
+  .grid .item{
+    margin-bottom:35px;
+  }
+
+  .test{
+    width:100%;
+  }
+
+  .flex{
+    display:block;
+  }
+
+  .footer-left{
+    width:100%;
+  }
+
+  .option{
+    width:100%;
+  }
+
+  .send{
+    width:100%;
+  }
+  
+
+}
